@@ -1,5 +1,7 @@
 # Hi, I'm Tiwa 👋
-
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![Status](https://img.shields.io/badge/Status-Learning-success)
+![Focus](https://img.shields.io/badge/Focus-ML%20%26%20Data-orange)
 🎓 Computer Science student (200 level)  
 🐍 Python programmer  
 🤖 Aspiring Machine Learning Engineer  
@@ -28,7 +30,15 @@
 - Matplotlib
 - Git & GitHub
 
+- ## Skills
+![Python](https://img.shields.io/badge/-Python-blue)
+![NumPy](https://img.shields.io/badge/-NumPy-lightblue)
+![Pandas](https://img.shields.io/badge/-Pandas-green)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-orange)
+
 📫 Always learning, always improving.
+## GitHub Stats
+![Tiwa's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
 
 <!--
 **tiwalolui/tiwalolui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
