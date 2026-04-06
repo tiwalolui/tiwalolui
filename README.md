@@ -13,17 +13,37 @@
 - I build small projects to understand concepts deeply
 
 ## Current Focus
-- Python for Data Analysis
 - Competitive Programming (beginner level)
 - Machine Learning fundamentals
+- Problem and Algorithmic Thinking
+- Logistic Regression
+- Linear Regression
 
 ## Projects
 - ⚽ **Football Performance Analyzer**
   - Analyzes player stats using Python
   - Uses NumPy, Pandas, and Matplotlib
   - Calculates performance scores and visualizes results
+ 
+  - 🔥**Calorie Burn Projects**
+     - Built Linear Regression from scratch using gradient descent
+     - Implemented cost function and parameter updates manually
+     - Focused on understanding the maths behind ML
 
-## Tools & Technologies
+  - 🎓**Student Performance Predictor**
+     - predicts student outcomes based on study related features
+     - Applied data analysis and prediction techniques
+     - improved model logic and data handling skills
+   
+  - ⛅**Weather Trend Analyzer**
+     - Analyzed wether patterns using rolling windows
+     - implemented moving averages and basic forecasting
+   
+
+## Learning Philosophy
+    i focus on **understanding concepts deeply by building** 
+
+## Tech Stack
 - Python
 - NumPy
 - Pandas
@@ -40,17 +60,4 @@
 ## GitHub Stats
 ![Tiwa's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
 
-<!--
-**tiwalolui/tiwalolui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
