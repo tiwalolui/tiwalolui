@@ -41,7 +41,7 @@
    
 
 ## Learning Philosophy
-    i focus on **understanding concepts deeply by building** 
+    i focus on understanding concepts deeply by building
 
 ## Tech Stack
 - Python
