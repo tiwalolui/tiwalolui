@@ -17,12 +17,12 @@
 
 ### 🚀 About Me
 
-- 🎓 Sophomore CS student at **Crawford University**, Nigeria — specializing in **Machine Learning & Data Science**
-- 💼 Currently interning at **SkyGrid Tech**, a Lagos-based **AWS Advanced Consulting Partner** (starting July 2026)
-- ⚽ Building an **ML model to predict World Cup outcomes** — Random Forest, Elo ratings, feature engineering, tackling data leakage head-on
-- 🧠 I care more about *understanding every line* than copy-pasting code — slow and correct beats fast and fragile
-- 🌱 Currently exploring: AWS Well-Architected patterns, agentic AI architectures, and RAG systems
-- 📫 Building in public on X — sharing the wins, the bugs, and the "wait why is my accuracy 100%" moments
+-  Sophomore CS student at **Crawford University**, Nigeria — specializing in **Machine Learning & Data Science**
+-  Currently interning at **SkyGrid Tech**, a Lagos-based **AWS Advanced Consulting Partner** (starting July 2026)
+-  Building an **ML model to predict World Cup outcomes** — Random Forest, Elo ratings, feature engineering, tackling data leakage head-on
+-  I care more about *understanding every line* than copy-pasting code — slow and correct beats fast and fragile
+-  Currently exploring: AWS Well-Architected patterns, agentic AI architectures, and RAG systems
+-  Building in public on X — sharing the wins, the bugs, and the "wait why is my accuracy 100%" moments
 
 ---
 
@@ -59,10 +59,10 @@
 
 | Project | Description |
 |---|---|
-| ⚽ **World Cup Predictor** | ML model on a ~49k-row international football dataset — Random Forest + Elo ratings |
-| 🎗️ **Breast Cancer Classifier** | Logistic regression, 97.3% accuracy, deployed on Streamlit |
-| 📈 **Student Score / House Price Predictors** | Linear regression fundamentals, deployed on Streamlit |
-| 🌦️ **Weather Trend Analyser** | Exploratory data analysis on weather patterns |
+|  **World Cup Predictor** | ML model on a ~49k-row international football dataset — Random Forest + Elo ratings |
+|  **Breast Cancer Classifier** | Logistic regression, 97.3% accuracy, deployed on Streamlit |
+|  **Student Score / House Price Predictors** | Linear regression fundamentals, deployed on Streamlit |
+|  **Weather Trend Analyser** | Exploratory data analysis on weather patterns |
 
 ---
 
