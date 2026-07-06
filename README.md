@@ -15,7 +15,7 @@
 
 ---
 
-### 🚀 About Me
+###  About Me
 
 -  Sophomore CS student at **Crawford University**, Nigeria, specializing in **Machine Learning & Data Science**
 -  Currently interning at **SkyGrid Tech**, a Lagos-based **AWS Advanced Consulting Partner** (starting July 2026)
@@ -26,7 +26,7 @@
 
 ---
 
-### 🛠️ Tech Stack
+###  Tech Stack
 
 <div align="center">
 <img src="https://skillicons.dev/icons?i=python,git,github,vscode,aws,sklearn,pandas,numpy,tensorflow&theme=dark" />
