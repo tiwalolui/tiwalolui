@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c6ff&height=220&section=header&text=Tiwalolu%20Ige&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Machine%20Learning%20%7C%20Data%20Science%20%7C%20Building%20in%20Public&descAlignY=55&descSize=16" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c6ff&height=220&section=header&text=Tiwalolu%20Adeyemi&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Machine%20Learning%20%7C%20Data%20Science%20%7C%20Building%20in%20Public&descAlignY=55&descSize=16" />
 
 <a href="https://twitter.com/" target="_blank">
   <img src="https://img.shields.io/badge/-Twitter/X-00c6ff?style=for-the-badge&logo=x&logoColor=white" />
@@ -17,12 +17,12 @@
 
 ### 🚀 About Me
 
--  Sophomore CS student at **Crawford University**, Nigeria — specializing in **Machine Learning & Data Science**
+-  Sophomore CS student at **Crawford University**, Nigeria, specializing in **Machine Learning & Data Science**
 -  Currently interning at **SkyGrid Tech**, a Lagos-based **AWS Advanced Consulting Partner** (starting July 2026)
--  Building an **ML model to predict World Cup outcomes** — Random Forest, Elo ratings, feature engineering, tackling data leakage head-on
--  I care more about *understanding every line* than copy-pasting code — slow and correct beats fast and fragile
+-  Building an **ML model to predict World Cup outcomes** , Random Forest, Elo ratings, feature engineering, tackling data leakage head-on
+-  I care more about *understanding every line* than copy-pasting code , slow and correct beats fast and fragile
 -  Currently exploring: AWS Well-Architected patterns, agentic AI architectures, and RAG systems
--  Building in public on X — sharing the wins, the bugs, and the "wait why is my accuracy 100%" moments
+-  Building in public on X , sharing the wins, the bugs, and the "wait why is my accuracy 100%" moments
 
 ---
 
@@ -37,8 +37,8 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=tiwalolui&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00c6ff&icon_color=00c6ff&text_color=c9d1d9&cache_seconds=1800" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiwalolui&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00c6ff&text_color=c9d1d9&cache_seconds=1800" />
+<img height="165" src="https://github-readme-stats-ten-wine-24.vercel.app/api?username=tiwalolui&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00c6ff&icon_color=00c6ff&text_color=c9d1d9" />
+<img height="165" src="https://github-readme-stats-ten-wine-24.vercel.app/api/top-langs/?username=tiwalolui&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00c6ff&text_color=c9d1d9" />
 </div>
 
 <div align="center">
