@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c6ff&height=220&section=header&text=Tiwalolu%20Adeyemi&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Machine%20Learning%20%7C%20Data%20Science%20%7C%20Building%20in%20Public&descAlignY=55&descSize=16" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c6ff&height=220&section=header&text=Tiwalolu%20Ige&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Machine%20Learning%20%7C%20Data%20Science%20%7C%20Building%20in%20Public&descAlignY=55&descSize=16" />
 
 <a href="https://twitter.com/" target="_blank">
   <img src="https://img.shields.io/badge/-Twitter/X-00c6ff?style=for-the-badge&logo=x&logoColor=white" />
